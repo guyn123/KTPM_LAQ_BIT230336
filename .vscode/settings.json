@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "unit-test"
+    ],
+    "java.project.referencedLibraries": [
+        "junit-platform-console-standalone-1.10.0 (1).jar"
+    ]
+}
