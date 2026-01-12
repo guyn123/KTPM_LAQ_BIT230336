@@ -3,8 +3,6 @@
 
 Dự án thực hành môn **Kiểm thử phần mềm**, tập trung vào kỹ thuật kiểm thử đơn vị (Unit Testing) sử dụng **JUnit 5** và **Java** để đảm bảo tính đúng đắn của logic xử lý điểm số.
 
----
-
 ## Thông tin sinh viên
 * **Họ và tên:** Lê Anh Quân
 * **Mã sinh viên:** BIT230336
