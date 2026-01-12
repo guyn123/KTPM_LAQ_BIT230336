@@ -5,7 +5,7 @@ Dự án thực hành môn **Kiểm thử phần mềm**, tập trung vào kỹ 
 
 ---
 
-## 👨‍💻 Thông tin sinh viên
+## Thông tin sinh viên
 * **Họ và tên:** Lê Anh Quân
 * **Mã sinh viên:** BIT230336
 * **Lớp:** SOFT5
@@ -13,7 +13,7 @@ Dự án thực hành môn **Kiểm thử phần mềm**, tập trung vào kỹ 
 
 ---
 
-## 📝 Mô tả bài toán
+## Mô tả bài toán
 Viết và kiểm thử lớp `StudentAnalyzer` (nằm trong package `src`) với các yêu cầu chức năng sau:
 
 ### 1. Hàm `countExcellentStudents`
@@ -31,7 +31,7 @@ Viết và kiểm thử lớp `StudentAnalyzer` (nằm trong package `src`) vớ
 
 ---
 
-## 📂 Cấu trúc dự án
+## Cấu trúc dự án
 Dự án được tổ chức tách biệt giữa mã nguồn và mã kiểm thử:
 
 ```text
