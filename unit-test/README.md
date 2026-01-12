@@ -8,9 +8,7 @@ Dự án thực hành môn **Kiểm thử phần mềm**, tập trung vào kỹ 
 * **Mã sinh viên:** BIT230336
 * **Lớp:** SOFT5
 * **Ngày hoàn thành:** 07/01/2026
-
-
-
+* 
 ## Mô tả bài toán
 Viết và kiểm thử lớp `StudentAnalyzer` (nằm trong package `src`) với các yêu cầu chức năng sau:
 
@@ -26,8 +24,11 @@ Viết và kiểm thử lớp `StudentAnalyzer` (nằm trong package `src`) vớ
 * **Quy tắc nghiệp vụ:**
     * Chỉ tính toán trên các điểm số hợp lệ (`0 <= score <= 10`).
     * Trả về `0.0` nếu danh sách rỗng hoặc không có điểm nào hợp lệ để tránh lỗi chia cho 0.
-
-
+##  Yêu cầu môi trường (Prerequisites)
+Để chạy được dự án này, máy tính cần cài đặt:
+* **Java:** JDK 17+.
+* **Editor:** Visual Studio Code.
+* **Thư viện:** `junit-platform-console-standalone-1.10.0.jar` (Đã tải sẵn trong thư mục gốc).
 
 ## Cấu trúc dự án
 Dự án được tổ chức tách biệt giữa mã nguồn và mã kiểm thử:
@@ -35,7 +36,8 @@ Dự án được tổ chức tách biệt giữa mã nguồn và mã kiểm th�
 ```text
 unit-test/
 ├── src/
-│   └── StudentAnalyzer.java       # Package: src (Logic chính)
+│   └── StudentAnalyzer.java                      # Package: src (Logic chính)
 ├── test/
-│   └── StudentAnalyzerTest.java   # Package: test (Test Case)
-└── README.md                      # Báo cáo bài tập
+│   └── StudentAnalyzerTest.java                  # Package: test (Test Case)
+├── junit-platform-console-standalone-1.10.0.jar  # Thư viện chạy test
+└── README.md                                     # Báo cáo bài tập
