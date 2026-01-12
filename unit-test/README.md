@@ -9,7 +9,7 @@ Dự án thực hành môn **Kiểm thử phần mềm**, tập trung vào kỹ 
 * **Lớp:** SOFT5
 * **Ngày hoàn thành:** 07/01/2026
 
----
+
 
 ## Mô tả bài toán
 Viết và kiểm thử lớp `StudentAnalyzer` (nằm trong package `src`) với các yêu cầu chức năng sau:
@@ -27,7 +27,7 @@ Viết và kiểm thử lớp `StudentAnalyzer` (nằm trong package `src`) vớ
     * Chỉ tính toán trên các điểm số hợp lệ (`0 <= score <= 10`).
     * Trả về `0.0` nếu danh sách rỗng hoặc không có điểm nào hợp lệ để tránh lỗi chia cho 0.
 
----
+
 
 ## Cấu trúc dự án
 Dự án được tổ chức tách biệt giữa mã nguồn và mã kiểm thử:
