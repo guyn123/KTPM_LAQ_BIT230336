@@ -14,7 +14,10 @@ Trong kiểm thử phần mềm, việc phát hiện lỗi giao diện (UI) là 
 * Color & Contrast (Màu sắc và độ tương phản).
 * Spacing & Alignment (Khoảng cách, padding, margin và căn chỉnh).
 * Border & Radius (Viền và độ bo góc).
-
+  
+## Kết quả đạt được
+* **Cấp độ hoàn thành:** Hard (Đã hoàn thành xuất sắc các mức Easy, Medium và Hard)
+* **Số điểm đạt được:** 7030
 ## Ảnh chụp màn hình (Screenshots)
 <img width="1857" height="1016" alt="image" src="https://github.com/user-attachments/assets/291562e8-d388-4f81-ba73-bb27ce05b9f8" />
 
