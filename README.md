@@ -29,10 +29,9 @@ Sau khi hoàn thành bài tập, em đã rút ra được những kinh nghiệm 
 3.  **Tư duy Pixel-perfect:** Rèn luyện mắt nhìn để phát hiện các lỗi lệch pixel mà người dùng thường khó nhận ra.
 
 ---
-# BÀI TẬP CHƯƠNG 2: BÀI TẬP THỰC HÀNH KIỂM THỬ VỚI JUNIT
-## Chủ đề: Phân tích dữ liệu điểm số học sinh
 
-Dự án thực hành môn **Kiểm thử phần mềm**, tập trung vào kỹ thuật kiểm thử đơn vị (Unit Testing) sử dụng **JUnit 5** và **Java** để đảm bảo tính đúng đắn của logic xử lý điểm số.
+# BÀI TẬP CHƯƠNG 2: BÀI TẬP THỰC HÀNH KIỂM THỬ VỚI JUNIT
+> **Chủ đề:**  Phân tích dữ liệu điểm số học sinh. Dự án thực hành môn **Kiểm thử phần mềm**, tập trung vào kỹ thuật kiểm thử đơn vị (Unit Testing) sử dụng **JUnit 5** và **Java** để đảm bảo tính đúng đắn của logic xử lý điểm số.
 
 ## Mô tả bài toán
 Viết và kiểm thử lớp `StudentAnalyzer` (nằm trong package `src`) với các yêu cầu chức năng sau:
