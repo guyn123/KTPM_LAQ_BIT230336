@@ -8,7 +8,7 @@ Dự án thực hành môn **Kiểm thử phần mềm**, tập trung vào kỹ 
 * **Mã sinh viên:** BIT230336
 * **Lớp:** SOFT5
 * **Ngày hoàn thành:** 07/01/2026
-* 
+
 ## Mô tả bài toán
 Viết và kiểm thử lớp `StudentAnalyzer` (nằm trong package `src`) với các yêu cầu chức năng sau:
 
