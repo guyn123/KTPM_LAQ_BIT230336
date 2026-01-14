@@ -1,13 +1,14 @@
-# BÀI TẬP TUẦN 1: BÁO CÁO THỰC HÀNH UI/UX TESTING
+# KIỂM THỬ PHẦN MỀM
+
+## Thông tin sinh viên
+* **Họ và tên:** Lê Anh Quân
+* **Mã sinh viên:** BIT230336
+* **Lớp:** SOFT5
+
+## BÀI TẬP TUẦN 1: BÁO CÁO THỰC HÀNH UI/UX TESTING
 
 > **Chủ đề:** Rèn luyện kỹ năng quan sát chi tiết giao diện (Pixel Perfect) thông qua [CantUnsee.space](https://cantunsee.space/).
 > 
-## Thông tin sinh viên
-* **Họ và tên:** Lê Anh Quân
-* **Mã sinh viên:** Bit230336
-* **Lớp:** SOFT5
-* **Ngày hoàn thành:** 05/01/2026
-
 ## Mô tả bài tập
 Trong kiểm thử phần mềm, việc phát hiện lỗi giao diện (UI) là cực kỳ quan trọng. Bài tập này sử dụng công cụ **CantUnsee** để kiểm tra khả năng phân biệt sự khác nhau giữa hai thiết kế về các yếu tố:
 * Typography (Font chữ, độ đậm nhạt).
