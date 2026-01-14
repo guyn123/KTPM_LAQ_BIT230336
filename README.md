@@ -1,4 +1,4 @@
-# KIỂM THỬ PHẦN MỀM
+# HỌC PHẦN: KIỂM THỬ PHẦN MỀM
 
 ## Thông tin sinh viên
 * **Họ và tên:** Lê Anh Quân
@@ -123,7 +123,7 @@ Hệ thống đã hoàn thành và vượt qua tất cả các bài kiểm thử
 ## Video minh họa kết quả (Demo)
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/90a33c2f-6d9e-4b09-b91a-825073c170a3" controls="controls" style="max-width: 100%;">
+  <video src="https://github.com/user-attachments/assets/169696d5-126e-442d-8c49-2226863c69db" controls="controls" style="max-width: 100%;">
     Trình duyệt của bạn không hỗ trợ xem video.
   </video>
 </p>
