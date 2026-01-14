@@ -4,6 +4,8 @@
 * **Họ và tên:** Lê Anh Quân
 * **Mã sinh viên:** BIT230336
 * **Lớp:** SOFT5
+* **SĐT:** 0868807213
+* **Email:** bit230336@st.cmcu.edu.vn
 ---
 ## BÀI TẬP CHƯƠNG 1: BÁO CÁO THỰC HÀNH UI/UX TESTING
 
