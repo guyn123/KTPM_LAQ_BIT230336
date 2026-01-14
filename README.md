@@ -5,7 +5,7 @@
 * **Mã sinh viên:** BIT230336
 * **Lớp:** SOFT5
 ---
-## BÀI TẬP TUẦN 1: BÁO CÁO THỰC HÀNH UI/UX TESTING
+## BÀI TẬP CHƯƠNG 1: BÁO CÁO THỰC HÀNH UI/UX TESTING
 
 > **Chủ đề:** Rèn luyện kỹ năng quan sát chi tiết giao diện (Pixel Perfect) thông qua [CantUnsee.space](https://cantunsee.space/).
 > 
@@ -29,7 +29,7 @@ Sau khi hoàn thành bài tập, em đã rút ra được những kinh nghiệm 
 3.  **Tư duy Pixel-perfect:** Rèn luyện mắt nhìn để phát hiện các lỗi lệch pixel mà người dùng thường khó nhận ra.
 
 ---
-# Bài tập Tuần 2: Bài tập thực hành kiểm thử với JUnit
+# BÀI TẬP CHƯƠNG 2: BÀI TẬP THỰC HÀNH KIỂM THỬ VỚI JUNIT
 ## Chủ đề: Phân tích dữ liệu điểm số học sinh
 
 Dự án thực hành môn **Kiểm thử phần mềm**, tập trung vào kỹ thuật kiểm thử đơn vị (Unit Testing) sử dụng **JUnit 5** và **Java** để đảm bảo tính đúng đắn của logic xử lý điểm số.
