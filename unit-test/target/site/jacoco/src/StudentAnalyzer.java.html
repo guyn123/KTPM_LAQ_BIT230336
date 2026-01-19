@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>StudentAnalyzer.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">unit-test</a> &gt; <a href="index.source.html" class="el_package">src</a> &gt; <span class="el_source">StudentAnalyzer.java</span></div><h1>StudentAnalyzer.java</h1><pre class="source lang-java linenums">package src;
+
+import java.util.List;
+
+<span class="fc" id="L5">public class StudentAnalyzer {</span>
+
+    /**
+     * Phân tích điểm số và trả về số lượng học sinh đạt loại Giỏi.
+     * 
+     * @param scores danh sách điểm số từ 0 đến 10
+     * @return số học sinh đạt loại Giỏi (&gt;= 8.0)
+     */
+    public int countExcellentStudents(List&lt;Double&gt; scores) {
+<span class="fc bfc" id="L14" title="All 4 branches covered.">        if (scores == null || scores.isEmpty()) {</span>
+<span class="fc" id="L15">            return 0;</span>
+        }
+
+<span class="fc" id="L18">        int count = 0;</span>
+<span class="fc bfc" id="L19" title="All 2 branches covered.">        for (Double score : scores) {</span>
+            // Bỏ qua điểm không hợp lệ
+<span class="fc bfc" id="L21" title="All 4 branches covered.">            if (score &lt; 0 || score &gt; 10) {</span>
+<span class="fc" id="L22">                continue;</span>
+            }
+            // Đếm học sinh giỏi
+<span class="fc bfc" id="L25" title="All 2 branches covered.">            if (score &gt;= 8.0) {</span>
+<span class="fc" id="L26">                count++;</span>
+            }
+        }
+<span class="fc" id="L29">        return count;</span>
+    }
+
+    /**
+     * Tính điểm trung bình hợp lệ (từ 0 đến 10)
+     * 
+     * @param scores danh sách điểm
+     * @return điểm trung bình của các điểm hợp lệ
+     */
+    public double calculateValidAverage(List&lt;Double&gt; scores) {
+<span class="fc bfc" id="L39" title="All 4 branches covered.">        if (scores == null || scores.isEmpty()) {</span>
+<span class="fc" id="L40">            return 0.0;</span>
+        }
+
+<span class="fc" id="L43">        double sum = 0.0;</span>
+<span class="fc" id="L44">        int validCount = 0;</span>
+
+<span class="fc bfc" id="L46" title="All 2 branches covered.">        for (Double score : scores) {</span>
+            // Chỉ tính toán các điểm hợp lệ
+<span class="fc bfc" id="L48" title="All 4 branches covered.">            if (score &gt;= 0 &amp;&amp; score &lt;= 10) {</span>
+<span class="fc" id="L49">                sum += score;</span>
+<span class="fc" id="L50">                validCount++;</span>
+            }
+        }
+
+        // Tránh lỗi chia cho 0 nếu không có điểm nào hợp lệ
+<span class="fc bfc" id="L55" title="All 2 branches covered.">        if (validCount == 0) {</span>
+<span class="fc" id="L56">            return 0.0;</span>
+        }
+
+<span class="fc" id="L59">        return sum / validCount;</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.11.202310140853</span></div></body></html>
