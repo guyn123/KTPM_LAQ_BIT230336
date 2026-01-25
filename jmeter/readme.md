@@ -23,7 +23,6 @@
 ## 3. Công cụ và môi trường
 
 - **Công cụ:** Apache JMeter 5.6.3
-- **Hệ điều hành:** Windows 10
 - **Giao thức:** HTTPS
 - **Listener sử dụng:** Summary Report, View Results Tree
 
