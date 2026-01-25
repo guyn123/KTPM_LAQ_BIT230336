@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET_TrangChu,50,522,359,1625,214.24,0.000%,1.66284,263.20,0.65,162080.0
+GET_BaiViet_Java,50,181,108,1179,145.92,0.000%,1.67616,399.04,0.33,243781.0
+TOTAL,100,352,108,1625,250.46,0.000%,3.30109,654.19,0.97,202930.5

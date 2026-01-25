@@ -1,12 +1,7 @@
-# BÀI TẬP THỰC HÀNH: BÁO CÁO KIỂM THỬ TỰ ĐỘNG E2E VỚI CYPRESS
+# BÀI TẬP CHƯƠNG 3: BÁO CÁO KIỂM THỬ TỰ ĐỘNG E2E VỚI CYPRESS
 
 > **Chủ đề:** Hiểu và thực hành các kịch bản kiểm thử tự động end-to-end (E2E) phổ biến bằng cách sử dụng Cypress để kiểm tra website mẫu [SauceDemo](https://www.saucedemo.com/).
 
-## Thông tin sinh viên
-* **Họ và tên:** Lê Anh Quân
-* **Mã sinh viên:** Bit230336
-* **Lớp:** SOFT5
-* **Ngày hoàn thành:** 13/01/2026
 
 ## Mô tả bài tập
 Trong kiểm thử phần mềm, kiểm thử tự động (Automation Testing) đóng vai trò quan trọng trong việc đảm bảo tính ổn định của các luồng nghiệp vụ. Bài tập này sử dụng **Cypress** để thực hiện các kịch bản kiểm thử toàn trình (End-to-End) trên trang web SauceDemo bao gồm:
@@ -56,15 +51,13 @@ Hệ thống đã hoàn thành và vượt qua tất cả các bài kiểm thử
 * **Kịch bản 6 (Thanh toán - Nâng cao):** Thực hiện quy trình thanh toán bằng cách điền thông tin (First Name: John, Last Name: Doe, Zip Code: 12345) và xác minh chuyển hướng thành công đến trang xác nhận thanh toán (`/checkout-step-two.html`).
 
 
-
 ## Video minh họa kết quả (Demo)
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/90a33c2f-6d9e-4b09-b91a-825073c170a3" controls="controls" style="max-width: 100%;">
+  <video src="https://github.com/user-attachments/assets/169696d5-126e-442d-8c49-2226863c69db" controls="controls" style="max-width: 100%;">
     Trình duyệt của bạn không hỗ trợ xem video.
   </video>
 </p>
-
 
 
 ## Kết luận
@@ -74,3 +67,4 @@ Thông qua bài tập thực hành kiểm thử tự động với Cypress, em �
 1.  **Tư duy Tự động hóa:** Việc áp dụng Automation Testing giúp giảm thiểu đáng kể các thao tác thủ công lặp đi lặp lại, từ đó tăng độ chính xác và tiết kiệm thời gian cho quá trình kiểm thử hồi quy.
 2.  **Kỹ năng Selector:** Việc xác định chính xác các thuộc tính ID, Class hoặc các thuộc tính đặc thù của phần tử web là yếu tố then chốt để đảm bảo mã kiểm thử (script) vận hành ổn định và dễ bảo trì.
 3.  **Quy trình chuẩn hóa:** Kiểm thử End-to-End (E2E) cung cấp cái nhìn toàn diện về hệ thống từ phía người dùng cuối, giúp phát hiện sớm các lỗi đứt gãy giữa các bước trong một luồng nghiệp vụ phức tạp.
+---

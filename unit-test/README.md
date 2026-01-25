@@ -1,9 +1,3 @@
-## Thông tin sinh viên
-* **Họ và tên:** Lê Anh Quân
-* **Mã sinh viên:** BIT230336
-* **Lớp:** SOFT5
-* **Ngày hoàn thành:** 07/01/2026
-
 # BÀI TẬP CHƯƠNG 2: BÀI TẬP THỰC HÀNH KIỂM THỬ VỚI JUNIT
 > **Chủ đề:**  Phân tích dữ liệu điểm số học sinh. Dự án áp dụng **kiểm thử đơn vị (Unit Testing)** với **JUnit 5** và **Java** nhằm kiểm tra logic xử lý điểm số học sinh. Bộ kiểm thử được thiết kế dựa trên các kỹ thuật **EP (Equivalence Partitioning)**, **BAV (Boundary Value Analysis)** và **DT (Decision Table Testing)**, đồng thời thực hiện **đo độ bao phủ mã nguồn (Test Coverage)** để đánh giá mức độ đầy đủ của các ca kiểm thử.
 

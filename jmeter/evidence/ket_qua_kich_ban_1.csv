@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET_TrangChu,50,301,142,934,175.19,0.000%,19.32741,3059.15,7.61,162079.3
+TOTAL,50,301,142,934,175.19,0.000%,19.32741,3059.15,7.61,162079.3
